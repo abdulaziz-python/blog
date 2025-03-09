@@ -151,7 +151,9 @@ else:
 
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://8000-idx-blog-1741487751521.cluster-rz2e7e5f5ff7owzufqhsecxujc.cloudworkstations.dev"
+    "https://8000-idx-blog-1741487751521.cluster-rz2e7e5f5ff7owzufqhsecxujc.cloudworkstations.dev",
+    'https://abdulaziz-blogs1326.onrender.com',
+    'https://abdulaziz-blogs.vercel.app'
 ]
 
 
